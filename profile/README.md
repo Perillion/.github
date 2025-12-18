@@ -1,38 +1,40 @@
-# 👋 Welcome to Cascalio Studio!
+# 🔬 Welcome to Perillion Labs
 
-Cascalio Studio is my fun, personal project space for experimenting with application development. I enjoy building useful, creative, and sometimes quirky apps—just for the love of coding!
+**Perillion Labs** is the experimental laboratory of the **Perillion** organization. We focus on building useful, creative, and efficient applications, with a special love for embedded systems.
 
-## ✨ What I Do
+## 📊 Statistics
 
-- Develop applications for web and mobile platforms.
-- Explore new technologies and frameworks.
-- Share learnings, ideas, and code with the community.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Perillion&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Perillion's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Perillion&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
-## 🚀 Get Involved
+## ✨ What We Do
 
-- Check out my repositories for projects in progress.
-- Contributions and ideas are always welcome—just open an issue or pull request!
-- If you’re curious about how things work, feel free to ask questions.
+- **Web & Mobile**: Developing robust applications using modern frameworks.
+- **Embedded Systems**: Crafting efficient, resource-conscious solutions for STM32 and ESP32.
+- **R&D**: Exploring new technologies and sharing knowledge with the community.
 
 ## 🛠️ Tech Stack
 
-- Web: HTML, CSS, JavaScript/TypeScript
-- Mobile: React Native, Flutter
-- Embedded: STM32, ESP32, C/C++ (for IoT side projects!)
+### Web & Mobile
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-## 🎉 Fun Facts
-
-- This studio is all about learning and creativity—no pressure, just code!
-- I sometimes add embedded C/C++ projects for microcontrollers, focusing on efficient, resource-conscious solutions.
+### Embedded
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 
 ## 📚 Resources
 
-- [GitHub Docs](https://docs.github.com/)
 - [STM32Cube Documentation](https://www.st.com/en/embedded-software/stm32cube-mcu-packages.html)
 - [ESP-IDF Guide](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/)
 - [FreeRTOS Reference](https://www.freertos.org/)
 
 ---
-
-Thanks for stopping by!  
-Feel free to explore, contribute, or just say hello 😄
+*Powered by coffee and code.* ☕
