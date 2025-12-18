@@ -1,19 +1,19 @@
 # 🔬 Welcome to Perillion Labs
 
-**Perillion Labs** is the experimental laboratory of the **Perillion** organization. We focus on building useful, creative, and efficient applications, with a special love for embedded systems.
+**Perillion Labs** is the experimental laboratory of the **Perillion** organization. I focus on building useful, creative, and efficient applications, with a special love for embedded systems.
 
 ## 📊 Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Perillion&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Perillion's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MootSeeker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Perillion's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Perillion&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MootSeeker&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
-## ✨ What We Do
+## ✨ What I Do
 
 - **Web & Mobile**: Developing robust applications using modern frameworks.
-- **Embedded Systems**: Crafting efficient, resource-conscious solutions for STM32 and ESP32.
+- **Embedded Systems**: Crafting efficient, resource-conscious solutions for STM32, ESP32, etc.
 - **R&D**: Exploring new technologies and sharing knowledge with the community.
 
 ## 🛠️ Tech Stack
