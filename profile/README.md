@@ -5,9 +5,9 @@
 ## 📊 Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PerillionLabs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Perillion's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Perillion&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Perillion's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PerillionLabs&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Perillion&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ## ✨ What I Do
